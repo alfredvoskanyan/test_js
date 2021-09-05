@@ -1,0 +1,22 @@
+{
+  "name": "test_js",
+  "version": "1.0.0",
+  "description": "Test JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfredvoskanyan/test_js.git"
+  },
+  "author": "Alfred Voskanyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfredvoskanyan/test_js/issues"
+  },
+  "homepage": "https://github.com/alfredvoskanyan/test_js#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
